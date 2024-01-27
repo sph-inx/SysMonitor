@@ -10,14 +10,14 @@ This tool provides a quick and easy readout of system vitals, useful for monitor
 
 Ensure you have Python version 3.x installed on your system. You will also need to install the `psutil` library.
 ```
-bash pip install psutil
+pip install psutil
 ```
 
 ## Usage
 
 Run the script from the command line to view your system information:
 ```
-bash python SysMonitor.py
+python SysMonitor.py
 ```
 
 ## Contributing
